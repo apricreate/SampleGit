@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
 
        TextView aa = (TextView)findViewById(R.id.textView);
-        aa.setText("aaabbbbbbbbbbbbbbbbbbbbbbcccccccccccccccc" +
-                "aaaa");
+        aa.setText("マスター変更0806");
+        aa.setText("コミット削除してこれを追加してコミット追加");
 
     }
 
