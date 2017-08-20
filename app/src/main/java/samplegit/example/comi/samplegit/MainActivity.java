@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         aa.setText("マスター変更0806");
         aa.setText("コミット削除してこれを追加してコミット追加");
         aa.setText("8/20 後半の追加");
+        aa.setEnabled("8/20 前半の追加");
 
 
     }
